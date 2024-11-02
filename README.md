@@ -27,4 +27,6 @@ from accident images. This will be accomplished by leveraging techniques such as
 
 ## Results
 
+![0220.JPEG](./images/0220.JPEG)
+
 ## References
