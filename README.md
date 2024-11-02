@@ -1,6 +1,6 @@
 # Predicting Car Damage Level for Insurance Claims Using Convolutional Neural Networks
 
-## Project Overview
+## Motivation
 
 Between 2014 and 2023 there has been an increase of 63.8% in car insurance costs in the US, Florida being the most expensive state with an average yearly cost of $3,865 
 for full coverage in 2024 [3]. Therefore, improving customer trust and reducing operational costs is paramount for companies to stay competitive. Evaluating the damage 
@@ -26,3 +26,5 @@ from accident images. This will be accomplished by leveraging techniques such as
 ## Model
 
 ## Results
+
+## References
