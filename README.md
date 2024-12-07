@@ -17,7 +17,7 @@ from accident images. This will be accomplished by leveraging techniques such as
 - Peter George​   ([Peter529823](https://github.com/Peter529823))
 - Felipe Bastos  ([fbastos231](https://github.com/fbastos231))
 - Meaghan Bryant​ ([megbry](https://github.com/megbry))
-- Steven Saleh   
+- Steven Saleh   ([StevenSaleh](https://github.com/StevenSaleh))
 
 ## Tools and Technologies used 
 
